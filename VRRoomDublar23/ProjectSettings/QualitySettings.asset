@@ -41,7 +41,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: d0e2fc18fe036412f8223b3b3d9ad574,
+    customRenderPipeline: {fileID: 11400000, guid: 19ec92bfeb2ed884eaabaa243a69a110,
       type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
@@ -79,7 +79,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: e1260c1148f6143b28bae5ace5e9c5d1,
+    customRenderPipeline: {fileID: 11400000, guid: 4d2848005faf84049b39f00545ca397f,
       type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
@@ -103,7 +103,7 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     vSyncCount: 1
-    realtimeGICPUUsage: 25
+    realtimeGICPUUsage: 50
     lodBias: 2
     maximumLODLevel: 0
     streamingMipmapsActive: 0
@@ -117,7 +117,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 7b7fd9122c28c4d15b667c7040e3b3fd,
+    customRenderPipeline: {fileID: 11400000, guid: fb70354ec2896604aa0defbbe92e3427,
       type: 2}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
